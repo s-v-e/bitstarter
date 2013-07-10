@@ -1,4 +1,4 @@
 bitstarter
 ==========
 
-This is fot the Stanford Startup Engineering couresc
+This is for the Stanford Startup Engineering course
